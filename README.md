@@ -20,7 +20,8 @@ Watch the [demo video](https://www.youtube.com/watch?v=tWCOJ1jZMes) for a quick 
 
 ## Author
 
-Created by Danyal Ejaz for the All In Hackathon.
+Created by [Danyal Ejaz](https://www.linkedin.com/in/danyalejaz/) for the All In Hackathon.
+
 
 ## How to Run Locally
 
