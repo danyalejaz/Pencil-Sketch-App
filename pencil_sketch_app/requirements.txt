@@ -2,3 +2,4 @@ streamlit
 numpy 
 PIL 
 cv2
+Pillow==8.0.0
